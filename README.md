@@ -19,3 +19,23 @@ An array of integers predefined in the code:
 
 **Output Data:**  
 The program should display the positive and negative numbers from the original array in two separate groups.
+
+
+
+**Task Description:**  
+
+Write a program in C# that calculates the volume of a cylinder. The program should:  
+
+1. **Define a constant** for the mathematical constant π (Pi) with a value of `3.14`.  
+2. **Initialize variables** for the radius (`poluprecnik`) and height (`visina`) of the cylinder with predefined values.  
+3. **Calculate** the volume of the cylinder using the formula:  
+        Volume=pi*radius**2*height
+4. **Display** the result in a user-friendly message, including the radius, height, and calculated volume of the cylinder.  
+
+**Input Data:**  
+- Radius (`poluprecnik`): 10  
+- Height (`visina`): 50  
+
+**Output Data:**  
+A message displaying the cylinder's radius, height, and volume in the following format:  
+`The volume of the cylinder with radius 10 and height 50 is 15700.`
